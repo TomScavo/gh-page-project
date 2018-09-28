@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://tomscavo.github.io/selfproject",
+  "homepage": "https://scavo.top",
   "keywords": [],
   "author": "",
   "license": "ISC",
